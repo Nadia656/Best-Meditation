@@ -6,7 +6,7 @@ Best Meditation is a JS/HTML/CSS project for relaxation.
 
 Open every link for finding the appropriate music  
 
-![Nature](meditationApp.png)
+![Nature](nature.png)
 
 
 ## Built With
